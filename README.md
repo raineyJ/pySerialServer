@@ -5,6 +5,6 @@ a local websocket server link serial port to webpage on windows OS.
 * <a href="https://github.com/Pithikos/python-websocket-server/">websocket-server</a> websocket server模块
 * <a href="https://www.wxpython.org/">wxpython</a> gui界面模块
 * <a href="https://pypi.python.org/pypi/pyserial">pyserial</a> 串口模块
-* <a href="http://www.py2exe.org/>py2exe</a> 打包模块
+* <a href="http://www.py2exe.org/">py2exe</a> 打包模块
 * 此外需要<a href="http://www.microsoft.com/en-us/download/details.aspx?id=15336">VC2008</a> 注意给的依赖为64，32位没测试过
 
